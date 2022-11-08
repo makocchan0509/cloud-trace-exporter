@@ -1,4 +1,4 @@
-module gihub.com/makocchan0509/cloud-trace-exporter
+module github.com/makocchan0509/cloud-trace-exporter
 
 go 1.19
 
